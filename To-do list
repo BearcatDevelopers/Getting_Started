@@ -1,5 +1,17 @@
 To-Do list:
 
+Grid: Difficulty of language (below) by difficulty by level/combination of logic. 
+
+Simple languages: Javascript 
+Intermediate: Python, Php 
+Advanced: Ruby, Java
+
+Simple concepts: if/else, loops, boolean
+Intermediate: User input
+Advanced: error handling
+Mega-advanced: combine languages AND concepts (EX: call a ruby script to run from a python function)
+
+
 Build Applications:
 
 > Static Web Page - Dan & Marlena
@@ -8,7 +20,6 @@ Build Applications:
   # "About me" page
 > Dynamic Web Page - Dan: use JQuery, Marlena: use JS
   - HTML/CSS 
-  - JQuery
   - JavaScript
   # Dynamic "About me" page
 
